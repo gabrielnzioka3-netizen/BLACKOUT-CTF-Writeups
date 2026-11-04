@@ -107,3 +107,7 @@ Publicly accessible resources can expose sensitive information. Proper reconnais
 ## Disclaimer
 
 These writeups document challenges completed in an authorized CTF environment. The techniques are intended for cybersecurity education and authorized security testing.
+| Challenge | Points | Author | Description |
+|---|---:|---|---|
+| Nexguard | 100 | — | Insecure File Upload |
+| Source Code Secrets | 100 | 0x4m4 | Information Disclosure through HTML, JavaScript, CSS comments and public files |
